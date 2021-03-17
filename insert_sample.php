@@ -7,3 +7,6 @@
 
     $dbh = null;
 ?>
+
+<br>
+<a href="select_sample.php">データ表示へ</a>
